@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "413885661531",
+    "project_id": "flutterproject-268a8",
+    "storage_bucket": "flutterproject-268a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413885661531:android:f289d19d39ae87f46fda7e",
+        "android_client_info": {
+          "package_name": "com.example.travell_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8rPnNWaV_nMT4gX0abtlm39GtQMYwAh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
